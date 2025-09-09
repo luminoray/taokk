@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif;
+    margin: 20px;
+    background: #334;
+    color: #DDD;
+}
+
+a {
+    color: #6cf;
+    font-weight: bold;
+}
+
+.command {
+    width: 24px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.combo {
+    line-height: 2;
+}
